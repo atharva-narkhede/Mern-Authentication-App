@@ -96,7 +96,13 @@ In the project directory, you can run:
 
 ### Environment Variables
 
-- **REACT_APP_API_URL**: The URL of the backend API. Example: `http://localhost:5000`
+- **REACT_APP_API_URL**: The URL of the backend API. ( Example: `http://localhost:5000` )
+- **GOOGLE_CLIENT_ID**:your_google_client_id
+- **GOOGLE_CLIENT_SECRET**:your_google_client_secret
+- **GITHUB_CLIENT_ID**:your_github_client_id
+- **GITHUB_CLIENT_SECRET**:your_github_client_secret
+
+
 
 ## Contributing
 
